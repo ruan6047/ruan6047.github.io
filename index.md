@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# 阮阮的個人資訊頁
 
-You can use the [editor on GitHub](https://github.com/ruan6047/ruan6047.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ruan6047/ruan6047.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+哈囉 我是獨立設計師阮阮現在是獨立實境遊戲設計師 從事密室相關設計已經有8年以上的經歷，同時具有設計與工程相關經歷，目前與主要以桌遊、密室、謎題包相關內容設計為主
+## 實體密室實境遊戲相關作品
+- 轉個彎工作室 尚未尋獲2
+     機關製作、謎題設計
+- 台灣新銳桌遊博覽會 展場實境解謎遊戲
+    遊戲設計
+- 松菸實境解謎 松菸實境解謎遊戲| 時光1937-保管箱的秘密
+    遊戲設計、APP UIUX設計
